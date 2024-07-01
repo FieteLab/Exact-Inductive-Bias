@@ -52,3 +52,15 @@ inductive_bias = kernel_main(X_train, y_train, X_test, y_test, out_dim, target_e
 # Neural network hypothesis space
 inductive_bias = nn_main(train_dataset, test_dataset, input_size, output_size, width, depth, epochs, batch_size, num_trials, target_error)
 ```
+
+
+## Citations
+If you use this code for your research, please cite our paper.
+```
+@inproceedings{boopathy2024towards,
+    author = {Boopathy, Akhilan and Yue, William and Hwang, Jaedong and Iyer, Abhiram and Fiete, Ila},
+    title = {Towards Exact Computation of Induction Bias},
+    booktitle = {IJCAI},
+    year = {2021},
+}   
+```
