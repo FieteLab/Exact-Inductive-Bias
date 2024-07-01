@@ -61,6 +61,6 @@ If you use this code for your research, please cite our paper.
     author = {Boopathy, Akhilan and Yue, William and Hwang, Jaedong and Iyer, Abhiram and Fiete, Ila},
     title = {Towards Exact Computation of Induction Bias},
     booktitle = {IJCAI},
-    year = {2021},
+    year = {2024},
 }   
 ```
